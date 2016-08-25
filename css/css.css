@@ -8,6 +8,9 @@ h1{
 }
 #mainIdea{
   color: white;
+  background-image:url('http://cdn.wedding-spot.com/images/venues/5683/Republic-Smokehouse-and-Saloon-Wedding-Houston-TX-1.1439447328.jpg');
+  background-attachment: fixed;
+  background-size:100%;
 }
 
 .row-header{
