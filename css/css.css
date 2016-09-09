@@ -17,7 +17,7 @@ a:hover{
   text-decoration: none;
 }
 .row-footer {
-  background-color: #CF0000;
+  background-color: #1db755;
   margin: 0px auto;
   padding: 20px 0px 20px 0px;
 }
@@ -30,7 +30,7 @@ header{
   background-image:
   linear-gradient(
   rgba(28, 28, 28, 7),
-  rgba(255, 0, 0, 0.5)
+  rgba(0, 255, 0, 0.5)
 ),
   url("bckground.png");
   background-position: center;
@@ -54,7 +54,7 @@ h2, h3{
 }
   .navbar-inverse{
     color: white;
-    background: #f20000;
+    background: #1db755;
     border-bottom: none;
   }
   .navbar-inverse .navbar-nav>li>a {
@@ -68,17 +68,17 @@ h2, h3{
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
    color: #fff;
-   background: #CF0000;
+   background: #1db755;
 }
 
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
    color: #fff;
-   background: #CF0000;
+   background: #1db755;
 }
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #CF0000;
+    background-color: #1db755;
 }
 .navbar-inverse .navbar-toggle {
     border-color: transparent;
@@ -87,7 +87,7 @@ h2, h3{
 
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
 .navbar-inverse .navbar-nav .open .dropdown-menu {
-   background-color: #CF0000;
+   background-color: #1db755;
    color:#ffffff;
 }
 .dropdown-header {
@@ -96,7 +96,7 @@ h2, h3{
     padding: 0px 20px;
     font-size: 15px;
     line-height: 2;
-    background-color: #f20000;
+    background-color: #1db755;
     color: #ffffff;
     white-space: nowrap;
 }
